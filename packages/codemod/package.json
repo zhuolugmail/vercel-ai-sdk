@@ -1,6 +1,6 @@
 {
     "name": "@ai-sdk/codemod",
-    "version": "1.0.2.private",
+    "version": "1001.0.2",
     "license": "Apache-2.0",
     "sideEffects": false,
     "files": [
@@ -24,7 +24,6 @@
         "@types/jscodeshift": "^0.12.0",
         "@types/node": "^18.19.54",
         "@types/semver": "^7.5.8",
-        "@vercel/ai-tsconfig": "workspace:*",
         "msw": "2.6.4",
         "tsup": "^8",
         "tsx": "4.7.1",

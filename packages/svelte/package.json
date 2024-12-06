@@ -1,6 +1,6 @@
 {
   "name": "@ai-sdk/svelte",
-  "version": "1.0.4.private",
+  "version": "1001.0.4",
   "license": "Apache-2.0",
   "sideEffects": false,
   "main": "./dist/index.js",
@@ -27,15 +27,13 @@
     "CHANGELOG.md"
   ],
   "dependencies": {
-    "@ai-sdk/provider-utils": "2.0.2",
-    "@ai-sdk/ui-utils": "1.0.3",
+    "@ai-sdk/provider-utils": "1002.0.2",
+    "@ai-sdk/ui-utils": "1001.0.3",
     "sswr": "^2.1.0"
   },
   "devDependencies": {
     "@types/node": "^18",
-    "@vercel/ai-tsconfig": "workspace:*",
     "eslint": "8.57.1",
-    "eslint-config-vercel-ai": "workspace:*",
     "tsup": "^7.2.0",
     "typescript": "5.6.3"
   },

@@ -1,6 +1,6 @@
 {
   "name": "@ai-sdk/xai",
-  "version": "1.0.4.private",
+  "version": "1001.0.4",
   "license": "Apache-2.0",
   "sideEffects": false,
   "main": "./dist/index.js",
@@ -30,12 +30,11 @@
     }
   },
   "dependencies": {
-    "@ai-sdk/provider": "1.0.1",
-    "@ai-sdk/provider-utils": "2.0.2"
+    "@ai-sdk/provider": "1001.0.1",
+    "@ai-sdk/provider-utils": "1002.0.2"
   },
   "devDependencies": {
     "@types/node": "^18",
-    "@vercel/ai-tsconfig": "workspace:*",
     "tsup": "^8",
     "typescript": "5.6.3",
     "zod": "3.23.8"
